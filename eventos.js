@@ -1,0 +1,3 @@
+function clicando(){
+    alert("Clicou")
+}
